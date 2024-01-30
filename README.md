@@ -16,10 +16,10 @@ Backend (Java Servlets)
         -API endpoint: /api/customers/{id} (PUT)
         -Description: Updates the information of an existing customer based on their ID.
 
--Get a List of Customers with Pagination, Sorting, and Searching:
+-Get a List of Customers with Pagination and Searching:
 
         -API endpoint: /api/customers (GET)
-        -Description: Retrieves a paginated list of customers from the database. Supports sorting and searching.
+        -Description: Retrieves a paginated list of customers from the database that Supports searching.
 
 -Get a Single Customer based on ID:
 
