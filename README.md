@@ -19,7 +19,7 @@ Backend (Java Servlets)
 -Get a List of Customers with Pagination and Searching:
 
         -API endpoint: /api/customers (GET)
-        -Description: Retrieves a paginated list of customers from the database that Supports searching.
+        -Description: Retrieves a paginated list of customers from the database.It Supports searching.
 
 -Get a Single Customer based on ID:
 
